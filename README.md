@@ -5,7 +5,7 @@ RF Test and Measurement Solutions, LLC, since 2008
 - 📫 We are located in Mesa, AZ
 - 📫 How to reach me: jhannah@rftms.com, +1 (972) 948-7619
 
-- 🔭 I’m currently working on Setting Up GitHub
+- 🔭 I’m currently working on Setting Up GitHub and other tooling
 - 🌱 I’m currently learning DevOps and Evolutionary Software Architectures: 
    - [ ] Git and GitHub
    - [ ] CI/CD, including PowerShell and Jenkins
