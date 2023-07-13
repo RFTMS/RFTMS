@@ -12,7 +12,7 @@ RF Test and Measurement Solutions, LLC, since 2008
    - [ ] .NET6 and C# 10
    - [ ] OO Design Patterns and Refactoring
    - [ ] Functional Programming in C# and F#
-   - [ ] Test-Driven Design using NTest for Unit Testing
+   - [ ] Test-Driven Design using xUnit for Unit Testing
    - [ ] Logging using NLog
    - [ ] Domain-Driven Design and Domain-Specific Languages
 
